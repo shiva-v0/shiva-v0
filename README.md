@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Quantum Computing, AI, Backend Developer
+
+Tech Stack:
+-PyTorch, Pinecone, Qiskit, FastAPI, LangChain..
 <!--
 **shiva-v0/shiva-v0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
